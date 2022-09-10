@@ -1,4 +1,4 @@
-module github.com/facebookincubator/nvdtools
+module github.com/Daviid-P/nvdtools
 
 go 1.14
 
