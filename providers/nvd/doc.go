@@ -18,4 +18,4 @@
 package nvd
 
 // Version of nvdsync/datasync.
-const Version = "1.0"
+const Version = "1.1"
