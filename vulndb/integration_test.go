@@ -23,8 +23,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/facebookincubator/nvdtools/vulndb/debug"
-	"github.com/facebookincubator/nvdtools/vulndb/mysql"
+	"github.com/Daviid-P/nvdtools/vulndb/debug"
+	"github.com/Daviid-P/nvdtools/vulndb/mysql"
 )
 
 func init() {

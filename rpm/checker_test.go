@@ -18,7 +18,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/facebookincubator/nvdtools/wfn"
+	"github.com/Daviid-P/nvdtools/wfn"
 )
 
 func TestCheck(t *testing.T) {

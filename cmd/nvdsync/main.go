@@ -23,7 +23,7 @@ import (
 	"time"
 
 	"github.com/facebookincubator/flog"
-	"github.com/facebookincubator/nvdtools/providers/nvd"
+	"github.com/Daviid-P/nvdtools/providers/nvd"
 )
 
 func init() {

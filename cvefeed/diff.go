@@ -18,8 +18,8 @@ import (
 	"encoding/json"
 	"math/bits"
 
-	"github.com/facebookincubator/nvdtools/cvefeed/nvd"
-	"github.com/facebookincubator/nvdtools/cvefeed/nvd/schema"
+	"github.com/Daviid-P/nvdtools/cvefeed/nvd"
+	"github.com/Daviid-P/nvdtools/cvefeed/nvd/schema"
 )
 
 type bag map[string]interface{}

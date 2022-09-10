@@ -26,9 +26,9 @@ import (
 	"golang.org/x/oauth2/clientcredentials"
 
 	"github.com/facebookincubator/flog"
-	"github.com/facebookincubator/nvdtools/providers/lib/client"
-	"github.com/facebookincubator/nvdtools/providers/lib/runner"
-	"github.com/facebookincubator/nvdtools/providers/rbs/schema"
+	"github.com/Daviid-P/nvdtools/providers/lib/client"
+	"github.com/Daviid-P/nvdtools/providers/lib/runner"
+	"github.com/Daviid-P/nvdtools/providers/rbs/schema"
 )
 
 const (

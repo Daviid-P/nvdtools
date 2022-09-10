@@ -5,7 +5,7 @@ Summary: A collection of tools for working with National Vulnerability Database 
 Version: %{_version}
 Release: 1
 License: Apache License 2.0
-URL: https://github.com/facebookincubator/nvdtools
+URL: https://github.com/Daviid-P/nvdtools
 Source0: %{name}-%{version}.tar.gz
 
 %description

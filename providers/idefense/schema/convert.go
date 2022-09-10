@@ -15,7 +15,7 @@
 package schema
 
 import (
-	nvd "github.com/facebookincubator/nvdtools/cvefeed/nvd/schema"
+	nvd "github.com/Daviid-P/nvdtools/cvefeed/nvd/schema"
 
 	"github.com/pkg/errors"
 )

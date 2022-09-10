@@ -20,10 +20,10 @@ import (
 	"io"
 	"os"
 
-	"github.com/facebookincubator/nvdtools/providers/redhat/check"
-	"github.com/facebookincubator/nvdtools/providers/redhat/schema"
-	"github.com/facebookincubator/nvdtools/rpm"
-	"github.com/facebookincubator/nvdtools/wfn"
+	"github.com/Daviid-P/nvdtools/providers/redhat/check"
+	"github.com/Daviid-P/nvdtools/providers/redhat/schema"
+	"github.com/Daviid-P/nvdtools/rpm"
+	"github.com/Daviid-P/nvdtools/wfn"
 )
 
 // Feed is a collection of CVEs from RedHat.

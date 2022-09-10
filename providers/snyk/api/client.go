@@ -24,8 +24,8 @@ import (
 
 	jwt "github.com/dgrijalva/jwt-go/v4"
 	"github.com/facebookincubator/flog"
-	"github.com/facebookincubator/nvdtools/providers/lib/client"
-	"github.com/facebookincubator/nvdtools/providers/snyk/schema"
+	"github.com/Daviid-P/nvdtools/providers/lib/client"
+	"github.com/Daviid-P/nvdtools/providers/snyk/schema"
 )
 
 type Client struct {

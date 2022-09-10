@@ -23,10 +23,10 @@ import (
 	"os"
 
 	"github.com/facebookincubator/flog"
-	"github.com/facebookincubator/nvdtools/providers/lib/client"
-	"github.com/facebookincubator/nvdtools/providers/lib/runner"
-	"github.com/facebookincubator/nvdtools/providers/rbs/api"
-	"github.com/facebookincubator/nvdtools/providers/rbs/schema"
+	"github.com/Daviid-P/nvdtools/providers/lib/client"
+	"github.com/Daviid-P/nvdtools/providers/lib/runner"
+	"github.com/Daviid-P/nvdtools/providers/rbs/api"
+	"github.com/Daviid-P/nvdtools/providers/rbs/schema"
 )
 
 const (

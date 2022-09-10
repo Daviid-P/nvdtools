@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"time"
 
-	nvd "github.com/facebookincubator/nvdtools/cvefeed/nvd/schema"
+	nvd "github.com/Daviid-P/nvdtools/cvefeed/nvd/schema"
 )
 
 // TODO: move this file to its own package in the future, to implement a common

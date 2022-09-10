@@ -23,8 +23,8 @@ import (
 	"strings"
 
 	"github.com/facebookincubator/flog"
-	"github.com/facebookincubator/nvdtools/providers/redhat"
-	"github.com/facebookincubator/nvdtools/rpm"
+	"github.com/Daviid-P/nvdtools/providers/redhat"
+	"github.com/Daviid-P/nvdtools/rpm"
 )
 
 func main() {

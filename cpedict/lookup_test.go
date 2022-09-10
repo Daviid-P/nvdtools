@@ -19,7 +19,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/facebookincubator/nvdtools/wfn"
+	"github.com/Daviid-P/nvdtools/wfn"
 )
 
 func TestSearch(t *testing.T) {

@@ -27,7 +27,7 @@ import (
 	"github.com/andreyvit/diff"
 
 	"github.com/facebookincubator/flog"
-	nvd "github.com/facebookincubator/nvdtools/cvefeed/nvd/schema"
+	nvd "github.com/Daviid-P/nvdtools/cvefeed/nvd/schema"
 )
 
 const (

@@ -24,8 +24,8 @@ import (
 	"github.com/pkg/errors"
 
 	"github.com/facebookincubator/flog"
-	"github.com/facebookincubator/nvdtools/vulndb/debug"
-	"github.com/facebookincubator/nvdtools/vulndb/sqlutil"
+	"github.com/Daviid-P/nvdtools/vulndb/debug"
+	"github.com/Daviid-P/nvdtools/vulndb/sqlutil"
 )
 
 // SnoozeRecord represents a database record of the `snooze` table.

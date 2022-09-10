@@ -19,7 +19,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/facebookincubator/nvdtools/wfn"
+	"github.com/Daviid-P/nvdtools/wfn"
 )
 
 func TestDecode(t *testing.T) {

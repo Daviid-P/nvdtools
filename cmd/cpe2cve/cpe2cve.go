@@ -29,9 +29,9 @@ import (
 	"time"
 
 	"github.com/facebookincubator/flog"
-	"github.com/facebookincubator/nvdtools/cvefeed"
-	"github.com/facebookincubator/nvdtools/stats"
-	"github.com/facebookincubator/nvdtools/wfn"
+	"github.com/Daviid-P/nvdtools/cvefeed"
+	"github.com/Daviid-P/nvdtools/stats"
+	"github.com/Daviid-P/nvdtools/wfn"
 )
 
 func processAll(in <-chan []string, out chan<- []string, caches map[string]*cvefeed.Cache, cfg config, nlines *uint64) {

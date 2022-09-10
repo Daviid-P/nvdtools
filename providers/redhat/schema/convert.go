@@ -19,7 +19,7 @@ import (
 	"strconv"
 	"strings"
 
-	nvd "github.com/facebookincubator/nvdtools/cvefeed/nvd/schema"
+	nvd "github.com/Daviid-P/nvdtools/cvefeed/nvd/schema"
 )
 
 const (

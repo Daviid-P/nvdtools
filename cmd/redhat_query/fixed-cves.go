@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/facebookincubator/nvdtools/providers/redhat"
-	"github.com/facebookincubator/nvdtools/rpm"
-	"github.com/facebookincubator/nvdtools/wfn"
+	"github.com/Daviid-P/nvdtools/providers/redhat"
+	"github.com/Daviid-P/nvdtools/rpm"
+	"github.com/Daviid-P/nvdtools/wfn"
 	"github.com/pkg/errors"
 
 	"github.com/spf13/cobra"

@@ -19,7 +19,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/facebookincubator/nvdtools/cvefeed"
+	"github.com/Daviid-P/nvdtools/cvefeed"
 )
 
 func init() {

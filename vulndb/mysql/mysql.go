@@ -21,7 +21,7 @@ import (
 	"time"
 
 	"github.com/facebookincubator/flog"
-	"github.com/facebookincubator/nvdtools/vulndb/debug"
+	"github.com/Daviid-P/nvdtools/vulndb/debug"
 )
 
 // OpenRead opens a connection to MySQL for reading.

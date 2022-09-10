@@ -20,8 +20,8 @@ import (
 	"strconv"
 	"time"
 
-	nvd "github.com/facebookincubator/nvdtools/cvefeed/nvd/schema"
-	"github.com/facebookincubator/nvdtools/providers/lib/client"
+	nvd "github.com/Daviid-P/nvdtools/cvefeed/nvd/schema"
+	"github.com/Daviid-P/nvdtools/providers/lib/client"
 )
 
 // Config is used to configure the execution of the converter

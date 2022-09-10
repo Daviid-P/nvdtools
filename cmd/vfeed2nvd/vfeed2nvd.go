@@ -20,8 +20,8 @@ import (
 	"os"
 
 	"github.com/facebookincubator/flog"
-	nvd "github.com/facebookincubator/nvdtools/cvefeed/nvd/schema"
-	"github.com/facebookincubator/nvdtools/providers/vfeed/api"
+	nvd "github.com/Daviid-P/nvdtools/cvefeed/nvd/schema"
+	"github.com/Daviid-P/nvdtools/providers/vfeed/api"
 )
 
 const pathVar = "VFEED_REPO_PATH"

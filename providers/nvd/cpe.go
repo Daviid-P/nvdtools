@@ -27,7 +27,7 @@ import (
 	"strings"
 
 	"github.com/facebookincubator/flog"
-	"github.com/facebookincubator/nvdtools/providers/lib/client"
+	"github.com/Daviid-P/nvdtools/providers/lib/client"
 )
 
 // CPE defines the CPE data feed for synchronization.

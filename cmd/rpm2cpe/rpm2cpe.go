@@ -25,9 +25,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/facebookincubator/nvdtools/wfn"
+	"github.com/Daviid-P/nvdtools/wfn"
 
-	"github.com/facebookincubator/nvdtools/rpm"
+	"github.com/Daviid-P/nvdtools/rpm"
 )
 
 var progname = path.Base(os.Args[0])

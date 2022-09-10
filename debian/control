@@ -4,7 +4,7 @@ Priority: extra
 Maintainer: Alexandre Fiori <fiorix@fb.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.6
-Homepage: https://github.com/facebookincubator/nvdtools/
+Homepage: https://github.com/Daviid-P/nvdtools/
 
 Package: nvdtools
 Architecture: any

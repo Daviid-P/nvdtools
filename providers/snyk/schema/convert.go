@@ -16,8 +16,8 @@ package schema
 
 import (
 	"github.com/facebookincubator/flog"
-	nvd "github.com/facebookincubator/nvdtools/cvefeed/nvd/schema"
-	"github.com/facebookincubator/nvdtools/wfn"
+	nvd "github.com/Daviid-P/nvdtools/cvefeed/nvd/schema"
+	"github.com/Daviid-P/nvdtools/wfn"
 )
 
 const (

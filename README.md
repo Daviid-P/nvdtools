@@ -1,4 +1,4 @@
-![Tests](https://github.com/facebookincubator/nvdtools/actions/workflows/tests.yaml/badge.svg)
+![Tests](https://github.com/Daviid-P/nvdtools/actions/workflows/tests.yaml/badge.svg)
 
 # NVD Tools
 
@@ -41,18 +41,18 @@ You need a properly setup Go environment.
 #### Download NVD Tools:
 
 ```bash
-go get github.com/facebookincubator/nvdtools/...
+go get github.com/Daviid-P/nvdtools/...
 ```
 
 #### Install all included command line tools:
 
 ```bash
-cd "$GOPATH"/src/github.com/facebookincubator/nvdtools/cmd
+cd "$GOPATH"/src/github.com/Daviid-P/nvdtools/cmd
 go install ./...
 ```
 ## How-build
 ```bash
-go mod init github.com/facebookincubator/nvdtools
+go mod init github.com/Daviid-P/nvdtools
 go mod tidy
 make
 cp build/bin/* ~/go/bin/

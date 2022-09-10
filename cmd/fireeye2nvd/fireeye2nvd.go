@@ -22,10 +22,10 @@ import (
 	"os"
 
 	"github.com/facebookincubator/flog"
-	"github.com/facebookincubator/nvdtools/providers/fireeye/api"
-	"github.com/facebookincubator/nvdtools/providers/fireeye/schema"
-	"github.com/facebookincubator/nvdtools/providers/lib/client"
-	"github.com/facebookincubator/nvdtools/providers/lib/runner"
+	"github.com/Daviid-P/nvdtools/providers/fireeye/api"
+	"github.com/Daviid-P/nvdtools/providers/fireeye/schema"
+	"github.com/Daviid-P/nvdtools/providers/lib/client"
+	"github.com/Daviid-P/nvdtools/providers/lib/runner"
 )
 
 func Read(r io.Reader, c chan runner.Convertible) error {

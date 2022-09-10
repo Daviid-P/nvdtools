@@ -21,10 +21,10 @@ import (
 	"io"
 
 	"github.com/facebookincubator/flog"
-	"github.com/facebookincubator/nvdtools/providers/lib/client"
-	"github.com/facebookincubator/nvdtools/providers/lib/runner"
-	"github.com/facebookincubator/nvdtools/providers/redhat/api"
-	"github.com/facebookincubator/nvdtools/providers/redhat/schema"
+	"github.com/Daviid-P/nvdtools/providers/lib/client"
+	"github.com/Daviid-P/nvdtools/providers/lib/runner"
+	"github.com/Daviid-P/nvdtools/providers/redhat/api"
+	"github.com/Daviid-P/nvdtools/providers/redhat/schema"
 )
 
 func Read(r io.Reader, c chan runner.Convertible) error {

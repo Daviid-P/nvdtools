@@ -34,7 +34,7 @@ import (
 	"time"
 
 	"github.com/facebookincubator/flog"
-	"github.com/facebookincubator/nvdtools/providers/lib/client"
+	"github.com/Daviid-P/nvdtools/providers/lib/client"
 )
 
 // CVE defines the CVE data feed for synchronization.

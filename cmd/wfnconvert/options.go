@@ -21,7 +21,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/facebookincubator/nvdtools/wfn"
+	"github.com/Daviid-P/nvdtools/wfn"
 )
 
 type intFields []int

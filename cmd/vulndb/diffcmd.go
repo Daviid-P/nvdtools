@@ -23,7 +23,7 @@ import (
 	"sort"
 
 	"github.com/facebookincubator/flog"
-	"github.com/facebookincubator/nvdtools/cvefeed"
+	"github.com/Daviid-P/nvdtools/cvefeed"
 	"github.com/spf13/cobra"
 )
 

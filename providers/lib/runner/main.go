@@ -25,9 +25,9 @@ import (
 	"time"
 
 	"github.com/facebookincubator/flog"
-	nvd "github.com/facebookincubator/nvdtools/cvefeed/nvd/schema"
-	"github.com/facebookincubator/nvdtools/providers/lib/client"
-	"github.com/facebookincubator/nvdtools/stats"
+	nvd "github.com/Daviid-P/nvdtools/cvefeed/nvd/schema"
+	"github.com/Daviid-P/nvdtools/providers/lib/client"
+	"github.com/Daviid-P/nvdtools/stats"
 )
 
 // Convertible is any struct which knows how to convert itself to NVD CVE Item

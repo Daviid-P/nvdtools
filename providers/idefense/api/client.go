@@ -23,9 +23,9 @@ import (
 	"time"
 
 	"github.com/facebookincubator/flog"
-	"github.com/facebookincubator/nvdtools/providers/idefense/schema"
-	"github.com/facebookincubator/nvdtools/providers/lib/client"
-	"github.com/facebookincubator/nvdtools/providers/lib/runner"
+	"github.com/Daviid-P/nvdtools/providers/idefense/schema"
+	"github.com/Daviid-P/nvdtools/providers/lib/client"
+	"github.com/Daviid-P/nvdtools/providers/lib/runner"
 	"github.com/pkg/errors"
 	"golang.org/x/sync/errgroup"
 )

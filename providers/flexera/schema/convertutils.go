@@ -20,8 +20,8 @@ import (
 	"strings"
 	"time"
 
-	nvd "github.com/facebookincubator/nvdtools/cvefeed/nvd/schema"
-	"github.com/facebookincubator/nvdtools/wfn"
+	nvd "github.com/Daviid-P/nvdtools/cvefeed/nvd/schema"
+	"github.com/Daviid-P/nvdtools/wfn"
 )
 
 var (
